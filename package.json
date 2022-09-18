@@ -2,6 +2,9 @@
   "name": "daaark-theme",
   "displayName": "Daaark-theme",
   "publisher": "melodywave272",
+  "repository": {
+    "url": "https://github.com/space-nerd/daaark-theme"
+  },
   "description": "A dark color theme ment for TypeScript/JavaScript devs",
   "version": "1.0.0",
   "engines": {
