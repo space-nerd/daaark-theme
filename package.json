@@ -1,0 +1,22 @@
+{
+  "name": "daaark-theme",
+  "displayName": "Daaark-theme",
+  "publisher": "melodywave272",
+  "description": "A dark color theme ment for TypeScript/JavaScript devs",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Daaark-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Daaark-theme-color-theme.json"
+      }
+    ]
+  }
+}
